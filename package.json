@@ -1,0 +1,18 @@
+{
+  "name": "aws-lambda-zip",
+  "version": "1.0.0",
+  "description": "Tiny utility to zip aws lambda package",
+  "main": "index.js",
+  "bin": "./index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uiureo/aws-lambda-zip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uiureo/aws-lambda-zip/issues"
+  },
+  "homepage": "https://github.com/uiureo/aws-lambda-zip#readme"
+}

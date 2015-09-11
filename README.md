@@ -5,7 +5,10 @@ It creates a package that excludes the following files.
 - files specified in `.gitignore`
 - modules specified in `devDependencies`
 
-This module has not yet published to npm.
+## Install
+```
+npm install uiureo/aws-lambda-zip
+```
 
 ## Usage
 Just run in the directory.
